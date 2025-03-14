@@ -3,7 +3,7 @@ import HeroSection from "./components/HeroSection"
 import NewsSection from "./components/NewsSection"
 import StatsSection from "./components/StatsSection"
 import FeaturesSection from "./components/FeaturesSection"
-import Chatbot from "./components/chatbot"
+import Chatbot from "./components/Chatbot"
 import Footer from "./components/Footer"
 
 
